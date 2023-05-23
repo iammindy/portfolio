@@ -5,15 +5,15 @@
 <img src="https://github.com/iammindy/portfolio/assets/77042619/feb89d7e-5421-4180-a496-0f73ffb27e39.png"  width=100%/>
 <br><br>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne) 
 ![image](https://github.com/iammindy/portfolio/assets/77042619/1e49064e-9926-4769-aaba-09f452c40c0f) <br><br>
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [장학라이크(Github)](https://github.com/Yujin0827/Scholarship-Like) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [장학라이크(Github)](https://github.com/Yujin0827/Scholarship-Like) 
 ![image](https://github.com/iammindy/portfolio/assets/77042619/f42abefb-3a25-4e69-bce1-24b63b0d756d) <br><br>
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AndroidStudio-SpringBoot-MySQL 프로젝트(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AndroidStudio-SpringBoot-MySQL 프로젝트(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne) 
 ![image](https://github.com/iammindy/portfolio/assets/77042619/cce42e9c-d7e7-4704-921a-513281589e25) <br><br>
 
 
