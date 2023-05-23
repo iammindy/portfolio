@@ -6,7 +6,7 @@
 <img src="https://github.com/iammindy/portfolio/assets/77042619/feb89d7e-5421-4180-a496-0f73ffb27e39.png"  width=100%/>
 <br><br>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc) 
 ![image](https://github.com/iammindy/portfolio/assets/77042619/c6e00cc5-30af-4d3d-af5b-e7d6c0952da3) <br><br>
 
 
