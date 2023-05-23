@@ -14,13 +14,13 @@
 ![image](https://github.com/iammindy/portfolio/assets/77042619/f42abefb-3a25-4e69-bce1-24b63b0d756d) <br><br>
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AndroidStudio-SpringBoot-MySQL 프로젝트(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AndroidStudio-SpringBoot-MySQL 프로젝트(Github)](https://github.com/iammindy/Android-Spring-MySQL) 
 ![image](https://github.com/iammindy/portfolio/assets/77042619/cce42e9c-d7e7-4704-921a-513281589e25) <br><br>
 
 
 <img src="https://github.com/iammindy/portfolio/assets/77042619/d31ffc0b-a528-4afc-bfb4-0163e5a2d9ad.png"  width=100%/>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/2023_1_CapstoneDesigne)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc)
 ![image](https://github.com/iammindy/portfolio/assets/77042619/4644cdd6-cc82-4e4a-b610-ab2aff1615a1)
 
 
