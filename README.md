@@ -8,6 +8,7 @@
 <br><br>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc) 
+
 ![005 - 복사본](https://github.com/iammindy/portfolio/assets/77042619/6b06f426-12f7-47aa-8a65-c40e8541c174) <br><br>
 
 
