@@ -7,22 +7,22 @@
 
 <br><br>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc) 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc) 
 
 ![005 - 복사본](https://github.com/iammindy/portfolio/assets/77042619/6b06f426-12f7-47aa-8a65-c40e8541c174) <br><br>
 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [장학라이크(Github)](https://github.com/Yujin0827/Scholarship-Like) 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [장학라이크(Github)](https://github.com/Yujin0827/Scholarship-Like) 
 ![005 - 복사본 (2)](https://github.com/iammindy/portfolio/assets/77042619/91463d16-ad3d-4653-8172-8764589aeb8d) <br><br>
 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AndroidStudio-SpringBoot-MySQL 프로젝트(Github)](https://github.com/iammindy/Android-Spring-MySQL) 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AndroidStudio-SpringBoot-MySQL 프로젝트(Github)](https://github.com/iammindy/Android-Spring-MySQL) 
 ![006](https://github.com/iammindy/portfolio/assets/77042619/eb9dc403-52b4-4443-878c-352ec7ecbc5e) <br><br>
 
 
 <img src="https://github.com/iammindy/portfolio/assets/77042619/d31ffc0b-a528-4afc-bfb4-0163e5a2d9ad.png"  width=100%/>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OCR, 이미지캡셔닝을 이용한 시각 장애인용 문서 번역 어플리케이션(Github)](https://github.com/iammindy/Speak-Doc)
 ![image](https://github.com/iammindy/portfolio/assets/77042619/4644cdd6-cc82-4e4a-b610-ab2aff1615a1)
 
 
