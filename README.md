@@ -26,12 +26,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/iammindy/portfolio/assets/77042619/4644cdd6-cc82-4e4a-b610-ab2aff1615a1" width=80%/> </p>
 
+![image](https://github.com/iammindy/portfolio/assets/77042619/e4473e69-3f5d-4097-a98f-25948809ceb1)
+<p align="center"> <img src="https://github.com/iammindy/portfolio/assets/77042619/3e15df44-d6fd-41f3-bfeb-502aa1a43fd6" width=70%/> </p>
 
-![image](https://github.com/iammindy/portfolio/assets/77042619/ec757d00-66d7-4932-8ace-26a3443b6590)
+![image](https://github.com/iammindy/portfolio/assets/77042619/4b310806-2208-4e73-a2f7-7a1b6189b405)
 <p align="center"> <img src="https://github.com/iammindy/portfolio/assets/77042619/0cb6f054-7806-4c58-87c8-6bc656a0c04e" width=70%/> </p>
 
-![image](https://github.com/iammindy/portfolio/assets/77042619/23669a5d-912e-47cd-b98c-0425dd110f12)
+![image](https://github.com/iammindy/portfolio/assets/77042619/f323e6cc-6323-4f56-b5f4-263385b8a582)
 <p align="center"> <img src="https://github.com/iammindy/portfolio/assets/77042619/664b71f5-4c18-4064-b2c0-b6f491fe759c" width=80% /> </p>
 
-![image](https://github.com/iammindy/portfolio/assets/77042619/33016ced-10e4-483b-a075-e1b277fb0316)
+![image](https://github.com/iammindy/portfolio/assets/77042619/0673caa7-0ce1-4cfe-81a1-6cb7d949722c)
 <p align="center"> <img src="https://github.com/iammindy/portfolio/assets/77042619/9317a70f-1098-4fa7-9e90-c2b5a3c7e027" /> </p>
